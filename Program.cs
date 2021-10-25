@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cs_form_framework_mysql_03
+namespace cs_form_mysql_03
 {
     static class Program
     {
