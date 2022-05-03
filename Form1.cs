@@ -43,7 +43,7 @@ namespace cs_form_mysql_03
             // SELECT を実行した結果を取得
             myReader = myCommand.ExecuteReader();
 
-            // myReader からデータが読みだされる間ずっとループ
+            // myReader からデータが読みだされたら画面にセット
             if (myReader.Read())
             {
                 // 列名より列番号を取得
